@@ -19,7 +19,7 @@ Elcipse is the IDE
 4. The dataset (heart1.csv) was uploaded together with the program
    NNforHear_finaltest.java,   NNfor_SA.java, NNfor_GA.java are the same data used in the 1st assignment
       
-5. assignment2_plot.ijup is for the graph plotting 
+5. assignment2_plot.ipynb is for the graph plotting 
 
 
 
