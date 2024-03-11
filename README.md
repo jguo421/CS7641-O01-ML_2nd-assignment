@@ -1,4 +1,7 @@
 ## CS 7641 Assignment 2: Randomized Optimization
+
+This project is saved at https://github.com/jguo421/CS7641-O01-ML_2nd-assignment
+
 4 RO algorithms were performed on 3 problems (4-peaks, continouse-peaks and TSP)
 - Randomized Hill Climb (RHC)
 - Simulated Annealing (SA)
